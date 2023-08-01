@@ -1,0 +1,7 @@
+{
+    "trailingCommaPHP": true,
+    "braceStyle": "per-cs",
+    "phpVersion": "8.2",
+    "singleQuote": true,
+    "useTabs": false
+}
